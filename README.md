@@ -1,1 +1,1 @@
-# React-Tuts
+# React-js-Tuts.
